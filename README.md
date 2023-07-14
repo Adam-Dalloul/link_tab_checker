@@ -17,3 +17,10 @@
 </ul>
 
 <em>Note:</em> Link Tab Checker operates seamlessly in the background, and it does not interfere with your browsing activities. Install now and unlock a smarter and more efficient way to browse the web!
+
+Available on:
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/link-tab-checker/ecmjjlhogcehgcljgcnoknipjbeciddl?hl=en" target="_blank" rel="noopener noreferrer">Chrome Web Store</a></li>
+    <li><a href="https://addons.mozilla.org/en-US/firefox/addon/link-tab-checker/" target="_blank" rel="noopener noreferrer">Mozilla Add-Ons Store</a></li>
+    <li><a href="https://microsoftedge.microsoft.com/addons/detail/link-tab-checker/clicajfnimjkhfdhocahacplcbjigapg" target="_blank" rel="noopener noreferrer">Microsoft Edge Add-ons Store</a></li>
+</ul>
