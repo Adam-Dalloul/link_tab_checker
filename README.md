@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/watch?v=5_C3DzkeHVs" target="_blank" rel="noopener noreferrer">Demo Video</a>
 
-<strong>Link Tab Checker</strong> is a powerful Chrome extension that enhances your browsing experience by providing valuable information about the behavior of website links. With Link Tab Checker, you can easily identify whether a link will open in a new tab or not, helping you navigate the web more efficiently.
+<strong>Link Tab Checker</strong> is a powerful extension that enhances your browsing experience by providing valuable information about the behavior of website links. With Link Tab Checker, you can easily identify whether a link will open in a new tab or not, helping you navigate the web more efficiently.
 
 <strong>Features:</strong>
 <ul>
