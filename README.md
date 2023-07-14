@@ -1,4 +1,4 @@
-  <img src="link_tab_checker/image128.png" alt="Link Tab Checker Logo">
+  <img src="link_tab_checker/icon28.png" alt="Link Tab Checker Logo">
 
 <a href="https://www.youtube.com/watch?v=5_C3DzkeHVs" target="_blank" rel="noopener noreferrer">Demo Video</a>
 
