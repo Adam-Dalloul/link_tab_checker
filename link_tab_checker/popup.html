@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .toggle-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        padding: 10px;
+      }
+
+      .toggle-label {
+        font-size: 16px;
+      }
+
+      .toggle-button {
+        width: 60px;
+        height: 30px;
+        border-radius: 30px;
+        background-color: #7bdca1;
+        position: relative;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        overflow: hidden;
+      }
+
+      .toggle-button::before {
+        content: "";
+        width: 30px;
+        height: 30px;
+        background-color: white;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        transition: transform 0.3s, background-color 0.3s;
+      }
+
+      .toggle-button.off {
+        background-color: #e74c3c;
+      }
+
+      .toggle-button.off::before {
+        transform: translateX(30px);
+      }
+
+      .toggle-button.disabled {
+        pointer-events: none; /* Disable pointer events on the button */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="toggle-container">
+      <span class="toggle-label">Toggle Extension:</span>
+      <div class="toggle-button"></div>
+    </div>
+    <script src="popup.js"></script>
+    <p>*Please note that you will need to reload the site for changes to take effect (on/off).</p>
+  </body>
+</html>

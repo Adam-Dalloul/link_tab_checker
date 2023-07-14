@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Link Tab Checker",
+  "version": "1.0",
+  "description": "Checks if a link opens in a new tab.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "service_worker": "background.js",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "link_tab_checker@adamdalloul.com"
+    }
+  }
+}  
