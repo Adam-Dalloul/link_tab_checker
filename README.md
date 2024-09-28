@@ -20,6 +20,8 @@
 
 <em>Note:</em> Link Tab Checker operates seamlessly in the background, and it does not interfere with your browsing activities. Install now and unlock a smarter and more efficient way to browse the web!
 
+Cross Platform Support is available!
+
 Available on:
 <ul>
     <li><a href="https://chrome.google.com/webstore/detail/link-tab-checker/ecmjjlhogcehgcljgcnoknipjbeciddl?hl=en" target="_blank" rel="noopener noreferrer">Chrome Web Store</a></li>
